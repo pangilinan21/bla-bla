@@ -1,3 +1,10 @@
 bla-bla
 =======
-<div class="big-box yellow-box">This is a big yellow box.</div>
+<html>
+  <head>
+    <title>An example of the body tag</title>
+  </head>
+  <body>
+    This is inside the body!
+  </body>
+</html>
